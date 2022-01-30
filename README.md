@@ -1,2 +1,2 @@
-# CPE 322
+# EE 322
 for notes, classwork, and code
